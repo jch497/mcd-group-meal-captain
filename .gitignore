@@ -1,0 +1,15 @@
+# 环境变量 / 密钥
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+
+# 本地临时
+.tmp/
+.DS_Store

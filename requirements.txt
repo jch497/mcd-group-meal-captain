@@ -1,0 +1,4 @@
+# 本工具仅依赖 Python 标准库，无需第三方包。
+# 若需运行测试，可使用仓库自带 tests/run_tests.py（同样仅依赖标准库）。
+# 如需 pytest：
+#   pip install pytest

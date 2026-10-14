@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mcd-group-meal-captain"
+version = "1.0.0"
+description = "麦当劳企业团餐指挥官：基于麦当劳 MCP 的团餐阶梯折扣临界补差寻优与助餐服务约束校验"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+keywords = ["mcdonalds", "mcp", "group-meal", "enterprise-catering", "workbuddy"]
+
+[project.scripts]
+mcd-group-meal = "mcd_group_meal.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["mcd_group_meal*"]

@@ -1,0 +1,41 @@
+{
+ "success": true,
+ "code": 200,
+ "message": "请求成功",
+ "datetime": "2026-10-13 17:29:30",
+ "traceId": "ae6568f6e5bf3f913a7541873d4e4539",
+ "data": {
+  "mealAssistanceItems": [
+   {
+    "gmServiceCode": "GMS001",
+    "gmServiceName": "保鲜速达",
+    "serviceItems": [
+     "准时送达&餐品保温"
+    ],
+    "selected": true,
+    "enable": true
+   },
+   {
+    "gmServiceCode": "GMS002",
+    "gmServiceName": "专人分餐",
+    "serviceItems": [
+     "准时送达&餐品保温",
+     "送餐到桌/到人"
+    ],
+    "enable": false,
+    "unusableReason": "专人服务需提前4h预约，如需要可更换送达时间~"
+   },
+   {
+    "gmServiceCode": "GMS003",
+    "gmServiceName": "专人摆台",
+    "serviceItems": [
+     "准时送达&餐品保温",
+     "餐品摆台",
+     "专人服务"
+    ],
+    "enable": false,
+    "unusableReason": "专人服务需提前4h预约，如需要可更换送达时间~"
+   }
+  ]
+ }
+}

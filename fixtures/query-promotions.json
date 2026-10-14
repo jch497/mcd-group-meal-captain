@@ -1,0 +1,477 @@
+{
+ "success": true,
+ "code": 200,
+ "message": "请求成功",
+ "datetime": "2026-10-13 17:29:32",
+ "traceId": "69277d7a74d7972aa88b9d32c7a83044",
+ "data": [
+  {
+   "promotionId": "331878003",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS001",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "34",
+     "startDiscountPoint": "2000"
+    }
+   }
+  },
+  {
+   "promotionId": "331878010",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS003",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "15",
+     "startDiscountPoint": "1000"
+    }
+   }
+  },
+  {
+   "promotionId": "331878001",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS001",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "26",
+     "startDiscountPoint": "500"
+    }
+   }
+  },
+  {
+   "promotionId": "331868002",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS001",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "22",
+     "startDiscountPoint": "300"
+    }
+   }
+  },
+  {
+   "promotionId": "331878011",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS003",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "19",
+     "startDiscountPoint": "2000"
+    }
+   }
+  },
+  {
+   "promotionId": "331878002",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS001",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "30",
+     "startDiscountPoint": "1000"
+    }
+   }
+  },
+  {
+   "promotionId": "331878004",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS002",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "12",
+     "startDiscountPoint": "300"
+    }
+   }
+  },
+  {
+   "promotionId": "331878009",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS003",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "11",
+     "startDiscountPoint": "500"
+    }
+   }
+  },
+  {
+   "promotionId": "331878007",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS002",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "24",
+     "startDiscountPoint": "2000"
+    }
+   }
+  },
+  {
+   "promotionId": "331878006",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS002",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "20",
+     "startDiscountPoint": "1000"
+    }
+   }
+  },
+  {
+   "promotionId": "331878005",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS002",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "16",
+     "startDiscountPoint": "500"
+    }
+   }
+  },
+  {
+   "promotionId": "331878008",
+   "promotionType": "33",
+   "ruleCategory": 30,
+   "beTypes": [
+    "6"
+   ],
+   "startTime": "2025-03-01 00:00:00",
+   "endTime": "2026-12-31 23:59:59",
+   "gmServiceCode": "GMS003",
+   "products": [
+    {
+     "type": "2",
+     "productCode": "9900016058"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016056"
+    },
+    {
+     "type": "2",
+     "productCode": "9900016057"
+    },
+    {
+     "type": "2",
+     "productCode": "521742"
+    },
+    {
+     "type": "2",
+     "productCode": "521743"
+    }
+   ],
+   "ruleDetail": {
+    "orderDiscount": {
+     "discount": "7",
+     "startDiscountPoint": "300"
+    }
+   }
+  }
+ ]
+}

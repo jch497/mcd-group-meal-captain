@@ -1,0 +1,147 @@
+{
+ "success": true,
+ "code": 200,
+ "message": "请求成功",
+ "datetime": "2026-10-13 17:29:19",
+ "traceId": "b3e602a589e5f6544754b1c7f10449c9",
+ "data": [
+  {
+   "storeCode": "1990562",
+   "beCode": "199056281",
+   "storeName": "麦当劳泰州海陵万达广场餐厅",
+   "reservation": true,
+   "reservationTimeOptions": [
+    {
+     "date": "2026-10-13",
+     "today": true,
+     "reservationOptionText": "夜市(18:30至23:59)"
+    },
+    {
+     "date": "2026-10-14",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至03:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-15",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至03:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-16",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至03:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-17",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至03:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-18",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至03:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-19",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至03:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    }
+   ],
+   "businessStatus": true,
+   "businessStartTime": "07:00",
+   "businessEndTime": "02:00"
+  },
+  {
+   "storeCode": "1990087",
+   "beCode": "199008781",
+   "storeName": "麦当劳泰州青年路餐厅",
+   "reservation": true,
+   "reservationTimeOptions": [
+    {
+     "date": "2026-10-13",
+     "today": true,
+     "reservationOptionText": "夜市(18:30至23:30)"
+    },
+    {
+     "date": "2026-10-14",
+     "today": false,
+     "reservationOptionText": "早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)，夜市(18:30至23:30)"
+    },
+    {
+     "date": "2026-10-15",
+     "today": false,
+     "reservationOptionText": "早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)，夜市(18:30至23:30)"
+    },
+    {
+     "date": "2026-10-16",
+     "today": false,
+     "reservationOptionText": "早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)，夜市(18:30至23:30)"
+    },
+    {
+     "date": "2026-10-17",
+     "today": false,
+     "reservationOptionText": "早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)，夜市(18:30至23:30)"
+    },
+    {
+     "date": "2026-10-18",
+     "today": false,
+     "reservationOptionText": "早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)，夜市(18:30至23:30)"
+    },
+    {
+     "date": "2026-10-19",
+     "today": false,
+     "reservationOptionText": "早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)，夜市(18:30至23:30)"
+    }
+   ],
+   "businessStatus": true,
+   "businessStartTime": "07:00",
+   "businessEndTime": "22:00"
+  },
+  {
+   "storeCode": "1990070",
+   "beCode": "199007081",
+   "storeName": "麦当劳泰州一百餐厅",
+   "reservation": true,
+   "reservationTimeOptions": [
+    {
+     "date": "2026-10-13",
+     "today": true,
+     "reservationOptionText": "夜市(18:30至23:59)"
+    },
+    {
+     "date": "2026-10-14",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至00:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-15",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至00:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-16",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至00:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-17",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至00:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-18",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至00:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    },
+    {
+     "date": "2026-10-19",
+     "today": false,
+     "reservationOptionText": "夜市(00:00至00:30,18:30至23:59)，早餐(08:30至11:59)，午餐(12:00至15:59)，下午茶(16:00至18:29)"
+    }
+   ],
+   "businessStatus": true,
+   "businessStartTime": "07:00",
+   "businessEndTime": "23:00"
+  }
+ ]
+}
